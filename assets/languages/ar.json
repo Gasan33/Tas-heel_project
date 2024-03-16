@@ -1,0 +1,16 @@
+{
+    "welcomeLabel": "أهلا بك في",
+    "loginLabel":"تسجيل دخول",
+    "email": "البريد الالكتروني",
+    "password": "كلمة المرور",
+    "forgetPassword": "هل نسيت كلمة المرور ؟",
+    "resetPassword": "إعادة تعين كلمة المرور",
+    "don'tHaveAccount":"ليس لديك حساب ؟",
+    "singInWithUAEPASS": "تسجيل الدخول بالهوية الرقمية",
+
+
+    "singUpLabel":"تسجيل جديد",
+    "allReadyHaveAccount":"لديك حساب ؟",
+    "firstName":"الاسم الاول",
+    "lastName":"الاسم الاخير"
+}

@@ -1,0 +1,17 @@
+{
+    "welcomeLabel": "Welcome In",
+    "loginLabel":"Log In",
+    "email": "E-mail",
+    "password": "Password",
+    "forgetPassword": "Forget Password ?",
+    "resetPassword": "Reset Password",
+    "don'tHaveAccount":"Don't Have Account ?",
+    "singInWithUAEPASS": "Sign in with UAE PASS",
+
+
+
+    "singUpLabel":"Sing Up",
+    "allReadyHaveAccount":"all ready have account ?",
+    "firstName":"First Name",
+    "lastName":"Last Name"
+}
